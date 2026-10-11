@@ -1,4 +1,4 @@
-# Green Mint Portfolio
+# Portfolio
 
 A responsive student e-portfolio built with React, Vite, and Tailwind CSS v4.
 
